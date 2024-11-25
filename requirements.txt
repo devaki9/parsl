@@ -15,4 +15,4 @@ requests
 psutil>=5.5.1
 setproctitle
 filelock>=3.13,<4
-PyYAML==5.1.2
+PyYAML==5.4
