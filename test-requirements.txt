@@ -25,3 +25,4 @@ twine
 wheel
 isort
 
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
